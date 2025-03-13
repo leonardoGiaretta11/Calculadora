@@ -6,7 +6,7 @@ function show (ta) {
 
     let num = ta - '0';
 
-    if (document.getElementById("number").innerHTML.length >= 16) 
+    if (document.getElementById("number").innerHTML.length >= 14) 
         return;
 
     if (flag == 1) {
